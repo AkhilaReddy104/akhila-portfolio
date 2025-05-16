@@ -144,3 +144,28 @@ footer {
     padding: 18px;
   }
 }
+.hero {
+  background: linear-gradient(135deg, #d6e0ff, #f0f4ff);
+  padding: 60px 20px;
+  text-align: center;
+  border-bottom: 2px solid #ccd8ff;
+}
+
+.hero-content h1 {
+  font-size: 38px;
+  font-weight: 600;
+  color: #0f62fe;
+  margin-bottom: 15px;
+}
+
+.hero-content p {
+  font-size: 18px;
+  color: #333;
+  max-width: 700px;
+  margin: auto;
+  line-height: 1.6;
+}
+
+.highlight {
+  color: #084cdf;
+}
